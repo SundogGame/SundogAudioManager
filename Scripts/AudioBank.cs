@@ -12,7 +12,7 @@ namespace Sundog.Common.Audio
     /// <summary>
     /// A collection of AudioEvents and AudioParameters
     /// </summary>
-    [CreateAssetMenu(menuName = "Mixed Reality Toolkit/Audio Bank")]
+    [CreateAssetMenu(menuName = "Sundog Toolkit/Audio Bank")]
     public class AudioBank : ScriptableObject
     {
         /// <summary>
