@@ -1,8 +1,7 @@
-﻿// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT License.
-
-using Sundog.Common.Audio;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using Sundog.Common.Audio;
 
 public class AudioManagerDemo : MonoBehaviour
 {
